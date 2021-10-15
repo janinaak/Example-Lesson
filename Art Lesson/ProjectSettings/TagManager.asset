@@ -50,3 +50,6 @@ TagManager:
   - name: Characters
     uniqueID: 1002727295
     locked: 0
+  - name: particles
+    uniqueID: 3858577129
+    locked: 0
